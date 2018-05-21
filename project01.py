@@ -9,4 +9,3 @@ for i in range(1,22,2):
     else:
         print(i)
 
-print("儲存第三次囉~~")
