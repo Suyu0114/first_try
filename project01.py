@@ -9,3 +9,7 @@ for i in range(1,22,2):
     else:
         print(i)
 
+name = "Claire"
+print("My name is {}".format(name))
+
+print('11111111')
